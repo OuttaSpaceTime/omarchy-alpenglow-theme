@@ -7,7 +7,7 @@ the sunlit rock face as the accent and the lake blues and spruce greens for the 
 Every text and terminal color has at least **4.5:1** contrast against the background (WCAG AA);
 the main text sits at **17.3:1**.
 
-![Alpenglow preview: Neovim, btop, eza and Files](screenshots/overview.png)
+![Alpenglow: calendar and fastfetch over Lake Minnewanka](screenshots/hero.png)
 
 ## Install
 
@@ -20,6 +20,10 @@ Or from the desktop: `Super + Alt + Space` → Install → Style → Theme, then
 The theme then shows up as **Alpenglow** in the theme switcher.
 
 ## Screenshots
+
+Neovim, btop, `eza` and Files:
+
+![Neovim, btop, eza and Files](screenshots/overview.png)
 
 The Omarchy menu:
 
