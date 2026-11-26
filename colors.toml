@@ -1,0 +1,34 @@
+# Alpenglow: a high-contrast white theme drawn from James Wheeler's
+# "Mountain reflection in Lake Minnewanka" (Unsplash). Every text and
+# terminal color has at least 4.5:1 contrast against the background (WCAG AA).
+mode = "light"
+
+accent = "#B4471B"
+selection = "#F6D9C6"
+muted = "#66737E"
+
+background = "#FFFFFF"
+dark_background = "#F3F5F7"
+darker_background = "#E6EAEE"
+lighter_background = "#D5DCE2"
+
+foreground = "#0A1C2A"
+dark_foreground = "#5B6B78"
+light_foreground = "#1E3242"
+bright_foreground = "#000000"
+
+red = "#B3261E"
+yellow = "#8A5A00"
+orange = "#B4471B"
+green = "#2C6B2F"
+cyan = "#0E6B7C"
+blue = "#0B4F7A"
+magenta = "#8E2F6B"
+brown = "#6E3B22"
+
+bright_red = "#D0342C"
+bright_yellow = "#A06A00"
+bright_green = "#357F38"
+bright_cyan = "#11788A"
+bright_blue = "#1663A0"
+bright_magenta = "#A23B7D"
