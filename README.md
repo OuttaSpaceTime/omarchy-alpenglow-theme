@@ -7,7 +7,7 @@ the sunlit rock face as the accent and the lake blues and spruce greens for the 
 Every text and terminal color has at least **4.5:1** contrast against the background (WCAG AA);
 the main text sits at **17.3:1**.
 
-![Alpenglow preview: Neovim, btop, eza and Files](preview.png)
+![Alpenglow preview: Neovim, btop, eza and Files](screenshots/overview.png)
 
 ## Install
 
